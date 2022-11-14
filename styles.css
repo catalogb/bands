@@ -7,7 +7,7 @@ body{text-align: center;
 
 /* unvisited link */
 a:link {
-  color: green;
+  color: #00FA9A	;
 }
 
 /* visited link */
