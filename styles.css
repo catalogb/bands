@@ -7,12 +7,12 @@ body{text-align: center;
 
 /* unvisited link */
 a:link {
-  color: #00FA9A;
+  color: #00BFFF;
 }
 
 /* visited link */
 a:visited {
-  color: #00FA9A;
+  color: #00BFFF;
 }
 
 /* mouse over link */
