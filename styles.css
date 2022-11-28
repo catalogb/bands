@@ -22,8 +22,10 @@ a:hover {
 }
 
 a{
-   font-size: 40px;
+   font-size: 30px;
 }
 
-
+h1 a{
+   font-size: 40px;
+}
 
