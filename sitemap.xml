@@ -9,178 +9,923 @@
 
 <url>
   <loc>https://catalogb.github.io/bands/</loc>
-  <lastmod>2022-11-14T01:32:45+00:00</lastmod>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://catalogb.github.io/bands/index.htm</loc>
-  <lastmod>2022-11-14T01:32:45+00:00</lastmod>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/01.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/02.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/03.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/04.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/05.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/06.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/07.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/08.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/09.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://catalogb.github.io/bands/alice-in-chains.htm</loc>
-  <lastmod>2022-11-14T01:32:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://catalogb.github.io/bands/black-sabbath.htm</loc>
-  <lastmod>2022-11-14T01:32:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://catalogb.github.io/bands/camisa-de-venus.htm</loc>
-  <lastmod>2022-11-14T01:32:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://catalogb.github.io/bands/days-of-the-new.htm</loc>
-  <lastmod>2022-11-14T01:32:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://catalogb.github.io/bands/echo-and-the-bunnymen.htm</loc>
-  <lastmod>2022-11-14T01:32:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://catalogb.github.io/bands/foo-fighters.htm</loc>
-  <lastmod>2022-11-14T01:32:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://catalogb.github.io/bands/gumball.htm</loc>
-  <lastmod>2022-11-14T01:32:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://catalogb.github.io/bands/heads.htm</loc>
-  <lastmod>2022-11-14T01:32:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://catalogb.github.io/bands/interpol.htm</loc>
-  <lastmod>2022-11-14T01:32:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://catalogb.github.io/bands/jimi-hendrix.htm</loc>
-  <lastmod>2022-11-14T01:32:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://catalogb.github.io/bands/korn.htm</loc>
-  <lastmod>2022-11-14T01:32:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://catalogb.github.io/bands/led-zeppelin.htm</loc>
-  <lastmod>2022-11-14T01:32:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://catalogb.github.io/bands/mad-season.htm</loc>
-  <lastmod>2022-11-14T01:32:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://catalogb.github.io/bands/nirvana.htm</loc>
-  <lastmod>2022-11-14T01:32:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://catalogb.github.io/bands/oasis.htm</loc>
-  <lastmod>2022-11-14T01:32:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://catalogb.github.io/bands/pearl-jam.htm</loc>
-  <lastmod>2022-11-14T01:32:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://catalogb.github.io/bands/queens-of-the-stone-age.htm</loc>
-  <lastmod>2022-11-14T01:32:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://catalogb.github.io/bands/radiohead.htm</loc>
-  <lastmod>2022-11-14T01:32:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://catalogb.github.io/bands/smashing-pumpkins.htm</loc>
-  <lastmod>2022-11-14T01:32:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://catalogb.github.io/bands/tad.htm</loc>
-  <lastmod>2022-11-14T01:32:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://catalogb.github.io/bands/ultraje-a-rigor.htm</loc>
-  <lastmod>2022-11-14T01:32:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://catalogb.github.io/bands/velvet-underground.htm</loc>
-  <lastmod>2022-11-14T01:32:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/who.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://catalogb.github.io/bands/xysma.htm</loc>
-  <lastmod>2022-11-14T01:32:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://catalogb.github.io/bands/yardbirds.htm</loc>
-  <lastmod>2022-11-14T01:32:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://catalogb.github.io/bands/zwan.htm</loc>
-  <lastmod>2022-11-14T01:32:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://catalogb.github.io/bands/13th-floor-elevators.htm</loc>
-  <lastmod>2022-11-14T01:32:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://catalogb.github.io/bands/35007.htm</loc>
-  <lastmod>2022-11-14T01:32:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://catalogb.github.io/bands/4mag-nitrous.htm</loc>
-  <lastmod>2022-11-14T01:32:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://catalogb.github.io/bands/500-ft-of-pipe.htm</loc>
-  <lastmod>2022-11-14T01:32:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://catalogb.github.io/bands/64-spiders.htm</loc>
-  <lastmod>2022-11-14T01:32:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://catalogb.github.io/bands/7-kinds-of-monkeys.htm</loc>
-  <lastmod>2022-11-14T01:32:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://catalogb.github.io/bands/8stops7.htm</loc>
-  <lastmod>2022-11-14T01:32:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://catalogb.github.io/bands/93millionmilesfromthesun.htm</loc>
-  <lastmod>2022-11-14T01:32:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/ac-dc.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/beatles.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/cure.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/david-bowie.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/engenheiros-do-hawaii.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/flaming-lips.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/greg-sage.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/housemartins.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/iggy-pop.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/jesus-and-mary-chain.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/kaiser-chiefs.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/legiao-urbana.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/mudhoney.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/neil-young.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/ozzy-osbourne.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/pantera.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/queen.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/rem.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/stone-temple-pilots.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/truly.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/ufo.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/vines.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/white-stripes.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/yo-la-tengo.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/zz-top.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/1000mods.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/3rd-secret.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/4-non-blondes.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/60-cycle.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/7-year-bitch.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/91s.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/arcade-fire.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/bush.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/creedence-clearwater-revival.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/dinosaur-jr.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/eddie-vedder.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/fluid.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/godsmack.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/hbs.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/ian-mcculloch.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/jerry-cantrell.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/kyuss.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/local-h.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/meat-puppets.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/nick-cave.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/offspring.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/pink-floyd.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/question-mark-and-the-mysterians.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/raimundos.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/scott-weiland.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/tom-petty.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/undergarden.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/velvet-revolver.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/whigs.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/year-long-disaster.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/zombies.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/1313-mockingbird-lane.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/3-speed-automatic.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/7-weeks.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/9-chambers.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/afghan-whigs.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/black-rebel-motorcycle-club.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/cream.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/dire-straits.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/eric-clapton.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/faith-no-more.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/george-thorogood.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/husker-du.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/inxs.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/jet.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/killing-chainsaw.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/lynyrd-skynyrd.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/metallica.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/noel-gallaghers-high-flying-birds.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/orange-goblin.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/page-and-plant.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/quarrymen.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/raul-seixas.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/screaming-trees.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/talk-show.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/unholy-trio.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/verve.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/wipers.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/youngblood-supercult.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/zombie-jihad.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/14th-wray.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/3s-a-crowd.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/1886.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/animals.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/byrds.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/chris-cornell.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/deep-purple.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/eagles.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/fleetwood-mac.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/grey-daze.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/humberto-gessinger.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/incubus.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/joy-division.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/kiss.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/live.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/morrissey.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/national.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/orc.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/paw.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/queen-adreena.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/reigning-sound.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/sonic-youth.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/tame-impala.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/uluru.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/violent-soho.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/wolfmother.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/yawning-man.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/zong.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/1968.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/audioslave.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/blue-cheer.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/concrete-blonde.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/dandelion.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/eyes-adrift.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/fukked-up.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/gruntruck.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/hammerbox.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/institute.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/jack-white.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/kinks.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/l7.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/megadeth.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/napalm-beach.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/ornament.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/pixies.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/quest-for-fire.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/ramones.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/stone-roses.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/type-o-negative.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/ugly-ducklings.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/verbena.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/we-hunt-buffalo.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/yat-machines.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalogb.github.io/bands/zen-bison.htm</loc>
+  <lastmod>2022-12-01T01:47:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
