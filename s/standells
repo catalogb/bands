@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<html lang=“en”>
+<head>
+<meta charset="utf-8"/>
+	<meta name="keywords" content="music, rock, band, song, sound">
+	<meta name="description" content="CatalogBands online discography music">
+	<meta name="author" content="Fábio Jacob">
+	<meta name="robots" content="index,follow">
+	<link rel="stylesheet" href="../styles.css">
+	<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+  <title>The Standells - CatalogBands</title>
+</head>
+<body>
+<header>
+
+<h1><a href="../index.html">CatalogBands</a></h1>
+	
+<a href="javascript:history.back()">Go Back</a>
+
+	
+	<h2>The Standells</h2>
+
+</header>
+ 
+<h3>Discography</h3>
+<ol style="list-style-type: none;">
+<li>Dirty Water (1966)</li><br>
+<li>Why Pick on Me — Sometimes Good Guys Don't Wear White (1966)</li><br>
+<li>The Hot Ones! (1967)</li><br>
+<li>Try It (1967)</li><br>
+<li><a href="https://fajape.blogspot.com/2025/06/bump.html" target="_blank">Bump (2013)</li><br>
+</ol>
+  
+
+</ol>
+	<br/><br/>
+
+ 
+<footer>
+<p>CatalogBands © 2025</p>
+</footer>
+</body>
+</html>
